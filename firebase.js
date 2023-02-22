@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDT4ix9xP_WLP03SauArCiwTyk734XrmAk",
+  apiKey: "YOUR_API_KEY",
   authDomain: "rn-uber-eat-clone-18e17.firebaseapp.com",
   projectId: "rn-uber-eat-clone-18e17",
   storageBucket: "rn-uber-eat-clone-18e17.appspot.com",
